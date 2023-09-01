@@ -1,12 +1,10 @@
-package org.example;
+package school.maps;
 
 /*
     Schritt 1: Baut eure Applikation aus dem ListIntro-Projekt von ArrayList in HashMap um.
  */
 
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 public class School {
