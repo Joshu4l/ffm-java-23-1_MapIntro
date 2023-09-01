@@ -84,6 +84,4 @@ public class Medication {
         this.availability = availability;
     }
 
-
-
 }
